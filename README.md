@@ -2,8 +2,7 @@
 
 `fossa-dependency-usage-analyzer` inspects a checked-out repository and reports, for every direct
 and transitive dependency it can resolve, the dependency's scope, whether it is linked into and
-shipped with the module's artifact, and its provenance. It is the analysis engine that
-[Ficus](https://github.com/fossas/ficus) embeds.
+shipped with the module's artifact, and its provenance.
 
 This repository hosts the release executables. The source lives in a FOSSA monorepo; each release
 here mirrors the corresponding monorepo release, so version numbers follow that release train
