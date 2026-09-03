@@ -4,9 +4,9 @@
 and transitive dependency it can resolve, the dependency's scope, whether it is linked into and
 shipped with the module's artifact, and its provenance.
 
-This repository hosts the release executables. The source lives in a FOSSA monorepo; each release
-here mirrors the corresponding monorepo release, so version numbers follow that release train
-rather than this tool's own feature history.
+This repository hosts the release executables. Source code is not published in this repository.
+Version numbers follow FOSSA's internal release numbering rather than this tool's own feature
+history.
 
 ## Download
 
