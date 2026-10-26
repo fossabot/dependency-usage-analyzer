@@ -1,4 +1,6 @@
 # FOSSA Dependency Usage Analyzer
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffossas%2Fdependency-usage-analyzer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffossas%2Fdependency-usage-analyzer?ref=badge_shield)
+
 
 `fossa-dependency-usage-analyzer` inspects a checked-out repository and reports, for every direct
 and transitive dependency it can resolve, the dependency's scope, whether it is linked into and
@@ -65,3 +67,6 @@ The executables are distributed under the
 [Common Public Attribution License 1.0](./LICENSE). Each release attaches
 `fossa-dependency-usage-analyzer-third-party-notices.txt` with the licenses of the open-source
 components bundled into the executables.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffossas%2Fdependency-usage-analyzer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffossas%2Fdependency-usage-analyzer?ref=badge_large)
